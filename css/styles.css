@@ -1,0 +1,56 @@
+body{
+  font-family: 'Karla', sans-serif;
+
+}
+/* block-1 */
+.block-1{
+  background-color: white;
+  padding:10%;
+
+}
+.community{
+  color:hsl(179, 62%, 43%);
+  font-weight: 700;
+}
+.block1-subheading{
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+.sh-text{
+  color: hsl(71, 73%, 54%);
+  font-weight: 700;
+}
+.b1-para{
+  color:grey;
+
+}
+/* block-2 */
+.block-2{
+  background-color: hsl(179, 62%, 43%);
+text-align: center;
+
+}
+.padding-block-2{
+  padding:2%
+}
+.inline-wrap{
+  display: inline-flex;
+}
+.b2-h3,.price{
+  color:#fff;
+
+}
+.b2-h4{
+  color:grey;
+
+}
+/* block-3 */
+.block-3{
+  background-color:#e0ffff;
+
+
+}
+.padding-block-3{
+  padding:2%;
+  text-align: center;
+}
